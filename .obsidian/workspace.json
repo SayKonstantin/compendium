@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "08758c075179240e",
+        "id": "74345fd2d2674a65",
         "type": "tabs",
         "children": [
           {
-            "id": "c01f2dc2c6d2f098",
+            "id": "81a313fed1b1aadc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00_Database/Шардирование.md",
+                "file": "00_Database/Транзакции.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 467.50271224975586
   },
   "right": {
     "id": "a16d2cc635635e27",
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00_Database/Шардирование.md",
+                "file": "00_Database/Транзакции.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "00_Database/Шардирование.md",
+                "file": "00_Database/Транзакции.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00_Database/Шардирование.md"
+                "file": "00_Database/Транзакции.md"
               }
             }
           }
@@ -147,22 +147,28 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "c01f2dc2c6d2f098",
+  "active": "81a313fed1b1aadc",
   "lastOpenFiles": [
-    "00_Database/Транзакция.md",
+    "00_Database/Транзакции.md",
+    "00_Database/img/Sync-async-slaves.png",
+    "00_Database/img/sharding.png",
+    "00_Database/img/Pasted image 20240723170219.png",
+    "00_Database/img/Pasted image 20240723141216.png",
+    "00_Database/img/Pasted image 20240723140326.png",
+    "00_Database/img/Pasted image 20240719220945.png",
+    "00_Database/img/Pasted Image 20240723140723_465.png",
+    "00_Database/img/Pasted image 20240719182841.png",
+    "00_Database/img/Pasted image 20240719182736.png",
+    "00_Database/img/Pasted image 20240719182653.png",
+    "Excalidraw/Drawing 2024-07-23 16.37.23.excalidraw.md",
+    "Excalidraw/Drawing 2024-07-23 13.49.31.excalidraw.md",
+    "Excalidraw/Drawing 2024-07-23 13.20.17.excalidraw.md",
     "00_Database/Шардирование.md",
     "00_Database/Репликация.md",
+    "Excalidraw",
+    "Untitled.md",
+    "00_Database/Транзакция.md",
     "00_Database/Нормализация.md",
-    "Pasted image 20240530104651.png",
-    "Excalidraw/Pasted image 20240530104651.png",
-    "Excalidraw/Pasted image 20240530104359.png",
-    "Excalidraw/Pasted Image 20240402101731_705.png",
-    "Excalidraw/Pasted Image 20240402100618_754.png",
-    "Excalidraw/Pasted Image 20240402100547_747.png",
-    "Excalidraw/Pasted image 20240203131806.png",
-    "Pasted image 20240530104359.png",
-    "Pasted Image 20240402100618_754.png",
-    "Pasted Image 20240402100547_747.png",
     "Excalidraw/Drawing 2024-07-19 16.55.29.excalidraw.md",
     "Excalidraw/Drawing 2024-07-19 17.51.07.excalidraw.md",
     "Excalidraw/Drawing 2024-07-19 16.22.21.excalidraw.md",
@@ -171,7 +177,6 @@
     "Excalidraw/DNS, TCP, HTTP, TLS.md",
     "Welcome.md",
     "Excalidraw/Drawing 2024-07-23 08.58.16.excalidraw.md",
-    "Excalidraw",
     "01_Golang",
     "00_Database/img",
     "image_url.md",
